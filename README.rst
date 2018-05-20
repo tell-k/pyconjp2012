@@ -1,6 +1,6 @@
 PyCon JP 2012 の 発表資料 です
 
-.. image:: https://tell-k.github.io/pyconjp2012/images/ogp.png
+.. figure:: https://tell-k.github.io/pyconjp2012/images/ogp.png
    :width: 50%
 
 * SQLAlchemy と 僕
